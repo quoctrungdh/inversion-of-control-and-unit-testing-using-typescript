@@ -1,0 +1,19 @@
+{
+  "name": "inversion-of-control-and-unit-testing-using-typescript",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/inversion-of-control-and-unit-testing-using-typescript",
+  "dependencies": {
+    "inversify": "4.13.0",
+    "reflect-metadata": "0.1.12"
+  },
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.1",
+    "jest": "^23.4.2",
+    "typescript": "^3.0.1"
+  }
+}
